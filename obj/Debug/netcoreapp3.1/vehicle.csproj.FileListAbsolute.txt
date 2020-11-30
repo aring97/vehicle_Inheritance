@@ -1,0 +1,13 @@
+C:\Users\aring\workspace\csharp\vehicle\bin\Debug\netcoreapp3.1\vehicle.exe
+C:\Users\aring\workspace\csharp\vehicle\bin\Debug\netcoreapp3.1\vehicle.deps.json
+C:\Users\aring\workspace\csharp\vehicle\bin\Debug\netcoreapp3.1\vehicle.runtimeconfig.json
+C:\Users\aring\workspace\csharp\vehicle\bin\Debug\netcoreapp3.1\vehicle.runtimeconfig.dev.json
+C:\Users\aring\workspace\csharp\vehicle\bin\Debug\netcoreapp3.1\vehicle.dll
+C:\Users\aring\workspace\csharp\vehicle\bin\Debug\netcoreapp3.1\vehicle.pdb
+C:\Users\aring\workspace\csharp\vehicle\obj\Debug\netcoreapp3.1\vehicle.csprojAssemblyReference.cache
+C:\Users\aring\workspace\csharp\vehicle\obj\Debug\netcoreapp3.1\vehicle.AssemblyInfoInputs.cache
+C:\Users\aring\workspace\csharp\vehicle\obj\Debug\netcoreapp3.1\vehicle.AssemblyInfo.cs
+C:\Users\aring\workspace\csharp\vehicle\obj\Debug\netcoreapp3.1\vehicle.csproj.CoreCompileInputs.cache
+C:\Users\aring\workspace\csharp\vehicle\obj\Debug\netcoreapp3.1\vehicle.dll
+C:\Users\aring\workspace\csharp\vehicle\obj\Debug\netcoreapp3.1\vehicle.pdb
+C:\Users\aring\workspace\csharp\vehicle\obj\Debug\netcoreapp3.1\vehicle.genruntimeconfig.cache
