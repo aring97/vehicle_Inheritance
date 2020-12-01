@@ -1,8 +1,10 @@
 using System;
 namespace vehicle{
-    public class Ram:Vehicle{
-    public double FuelCapacity {get; set;}
-    public void RefuelTank(){}
+    public class Ram:Vehicle, IGasVehicle{
+    public int CurrentTankPercentage {get; set;}=70;
+    public void RefuelTank(){
+        CurrentTankPercentage=100;
+    }
     public override void Drive(){
         System.Console.WriteLine("rumble");
     }

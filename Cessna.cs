@@ -1,11 +1,11 @@
 using System;
 namespace vehicle{
-    public class Cessna:Vehicle
+    public class Cessna:Vehicle, IGasVehicle
     {
-        public double FuelCapacity{get; set;}
+        public int CurrentTankPercentage{get; set;}= 50;
         public void RefuelTank()
         {
-            
+            CurrentTankPercentage=100;
         }
         public override void Drive()
         {

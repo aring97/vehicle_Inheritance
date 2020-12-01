@@ -1,11 +1,11 @@
 using System;
 namespace vehicle{
-    public class Zero:Vehicle
+    public class Zero:Vehicle, IElectricVehicle
     {
-        public double BatteryKWh{get; set;}
+        public int CurrentChargePercentage{get; set;}=45;
         public void ChargeBattery()
         {
-            
+            CurrentChargePercentage=100;
         }
         public override void Drive()
         {
